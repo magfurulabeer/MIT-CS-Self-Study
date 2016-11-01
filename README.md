@@ -1,6 +1,7 @@
 # MIT CS Self-Study
 This is my personal attempt to complete the full MIT undergraduate computer science degree using MIT OCW. I commit to starting this journey once I get a steady paying job. Currently 4 of the required courses are unavailable on OCW. I listed 8 other courses that I might use to fill in the gap.
 
+### 6-3. Computer Science and Engineering
 * 6.01 Introduction to Electrical Engineering and Computer Science I
 * 6.0001 n/a
 * 6.004 Computation Structures
@@ -17,7 +18,7 @@ This is my personal attempt to complete the full MIT undergraduate computer scie
 * **EECS** 6.073 Creating Video Games
 
 
- Additional Study and Alternatives
+#### Additional Study and Alternatives
 * 6.189 A Gentle Introduction to Programming Using Python
 * 6.S096 Introduction to C and C++ / Effective Programming in C and C++
 * 6.094 Introduction to MATLAB
