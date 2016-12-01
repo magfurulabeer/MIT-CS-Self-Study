@@ -1,6 +1,8 @@
 # MIT CS Self-Study
 This is my personal attempt to complete the MIT undergraduate computer science degree portion using MIT OCW. I commit to starting this journey once I get a steady paying job. Currently 4 of the required courses are unavailable on OCW. I listed 8 other courses that I might use to fill in the gap.
 
+Despite being an MIT CS Self Study, I am starting this off by taking Harvard University's CS50.
+
 ### 6-3. Computer Science and Engineering
 * 6.01 Introduction to Electrical Engineering and Computer Science I
 * 6.0001 n/a
